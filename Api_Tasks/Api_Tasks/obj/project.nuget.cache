@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xgu69ZTx3YH1rj1+Pjd0x90seu5BZz0fezY5fk4Rx8zziRLrJRnKGw8OjzcTRXt8wmu4WdDCMlkYX9yC8PwWng==",
+  "success": true,
+  "projectFilePath": "D:\\personal\\1.working\\1.uniandes\\1.realidad_mixta\\api\\azurefunction\\Api_Tasks\\Api_Tasks\\Api_Tasks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cjpel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\cjpel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cjpel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\cjpel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\cjpel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\cjpel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

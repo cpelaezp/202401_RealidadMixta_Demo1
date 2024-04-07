@@ -1,0 +1,11 @@
+D:\personal\1.working\1.uniandes\1.realidad_mixta\api\azurefunction\Api_Tasks\Api_Tasks\obj\Release\net8.0\PubTmp\Out\Api_Tasks.exe
+D:\personal\1.working\1.uniandes\1.realidad_mixta\api\azurefunction\Api_Tasks\Api_Tasks\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\personal\1.working\1.uniandes\1.realidad_mixta\api\azurefunction\Api_Tasks\Api_Tasks\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\personal\1.working\1.uniandes\1.realidad_mixta\api\azurefunction\Api_Tasks\Api_Tasks\obj\Release\net8.0\PubTmp\Out\Api_Tasks.dll
+D:\personal\1.working\1.uniandes\1.realidad_mixta\api\azurefunction\Api_Tasks\Api_Tasks\obj\Release\net8.0\PubTmp\Out\Api_Tasks.deps.json
+D:\personal\1.working\1.uniandes\1.realidad_mixta\api\azurefunction\Api_Tasks\Api_Tasks\obj\Release\net8.0\PubTmp\Out\Api_Tasks.runtimeconfig.json
+D:\personal\1.working\1.uniandes\1.realidad_mixta\api\azurefunction\Api_Tasks\Api_Tasks\obj\Release\net8.0\PubTmp\Out\Api_Tasks.pdb
+D:\personal\1.working\1.uniandes\1.realidad_mixta\api\azurefunction\Api_Tasks\Api_Tasks\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\personal\1.working\1.uniandes\1.realidad_mixta\api\azurefunction\Api_Tasks\Api_Tasks\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\personal\1.working\1.uniandes\1.realidad_mixta\api\azurefunction\Api_Tasks\Api_Tasks\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\personal\1.working\1.uniandes\1.realidad_mixta\api\azurefunction\Api_Tasks\Api_Tasks\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
